@@ -5,6 +5,8 @@ description: 'Example student paper on technological dynamism: "A new variety of
 file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/50f2ecb7d36df60e3f1b07be329e8b28_dcardoso_wk5.pdf
 file_size: 90542
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Example student paper on Herman Melville's Moby-Dick. "Ishmael's em
 file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/108189255f492cc75b211c815d932f9f_dcardoso_wk8.pdf
 file_size: 91352
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

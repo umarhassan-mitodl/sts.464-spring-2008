@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on the weekly writing assignment of
   the course along with example student papers.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
