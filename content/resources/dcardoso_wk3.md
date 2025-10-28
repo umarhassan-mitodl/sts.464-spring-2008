@@ -5,8 +5,6 @@ description: 'Example student paper on the enlightenment and Thomas Jefferson''s
 file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/25f9315770e0f42b63b27fe91fe9f079_dcardoso_wk3.pdf
 file_size: 95819
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

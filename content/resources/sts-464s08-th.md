@@ -4,8 +4,6 @@ description: New image Upload
 file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/52e7ec5c7fb1bd81c998e9276c0318e3_sts-464s08-th.jpg
 file_size: 2044
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: '"Both jaws, like enormous shears, bit the craft completely in twain."
     From Herman Melville''s _Moby-Dick_, considered in this class as "an epic of technological

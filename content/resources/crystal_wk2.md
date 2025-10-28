@@ -5,8 +5,6 @@ description: "Example student paper on technology in America today: \"Technology
 file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/6c88de9083ffd2365e44d1bce1776482_crystal_wk2.pdf
 file_size: 92717
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

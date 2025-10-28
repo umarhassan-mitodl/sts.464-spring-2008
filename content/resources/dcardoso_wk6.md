@@ -5,8 +5,6 @@ description: 'Example student paper on Herman Melville''s Moby-Dick: "A new kind
 file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/77992fefa78bbd0fa89acc40d630d1f9_dcardoso_wk6.pdf
 file_size: 90389
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
